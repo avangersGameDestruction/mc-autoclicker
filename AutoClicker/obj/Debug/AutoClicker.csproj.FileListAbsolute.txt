@@ -1,0 +1,13 @@
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.csprojAssemblyReference.cache
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.Main.resources
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.MultipleInstances.resources
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.NotRunning.resources
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.ButtonInputs.resources
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\mikeD\Downloads\MinecraftAutoClicker-master\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.pdb
